@@ -6,3 +6,4 @@ pytest
 cloudpickle
 scikit-image
 draugr[drawers]
+pillow>=9.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
